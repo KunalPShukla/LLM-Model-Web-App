@@ -1,0 +1,9 @@
+streamlit
+langchain
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+torch
+trafilatura
+langchain-community
